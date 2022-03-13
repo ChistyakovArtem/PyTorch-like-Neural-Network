@@ -1,2 +1,3 @@
 # PyTorch-like-Neural-Network
-Neural Network with Torch like design. Many activation functions, Loss functions and Dropout. 
+Neural Network with Torch like design. Many activation functions, Loss functions, Dropout and BatchNorm.
+Soon will be Layers for CNN including Conv2D, Pool, BatchNorm for 2D, UpSampling...
